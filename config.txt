@@ -1,0 +1,15 @@
+# Datos de la red Wi-Fi. Cambia solo lo que va despues del signo =
+# y guarda (Commit). La web se actualiza sola en 1-2 minutos.
+
+nombre_negocio = Mi Tienda
+ssid = MiTienda_WiFi
+password = cambia-esta-clave
+
+# seguridad: WPA2 (lo normal), WPA3, WPA, WEP o NONE (red abierta sin clave)
+seguridad = WPA2
+
+# oculta: si / no  (solo "si" cuando el router no muestra el nombre de la red)
+oculta = no
+
+# Direccion publica de esta pagina (la que va grabada en la etiqueta NFC)
+url_publica = https://USUARIO.github.io/wifi-nfc/
