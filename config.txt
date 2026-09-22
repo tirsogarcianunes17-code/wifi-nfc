@@ -1,9 +1,9 @@
 # Datos de la red Wi-Fi. Cambia solo lo que va despues del signo =
 # y guarda (Commit). La web se actualiza sola en 1-2 minutos.
 
-nombre_negocio = Mi Tienda
-ssid = MiTienda_WiFi
-password = cambia-esta-clave
+nombre_negocio = Casa
+ssid = NETFIBER_A74B
+password = papi
 
 # seguridad: WPA2 (lo normal), WPA3, WPA, WEP o NONE (red abierta sin clave)
 seguridad = WPA2
