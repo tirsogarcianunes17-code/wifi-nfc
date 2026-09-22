@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+  <key>PayloadContent</key>
+  <array>
+    <dict>
+      <key>AutoJoin</key>
+      <true/>
+      <key>EncryptionType</key>
+      <string>WPA2</string>
+      <key>HIDDEN_NETWORK</key>
+      <false/>
+      <key>Password</key>
+      <string>cambia-esta-clave</string>
+      <key>SSID_STR</key>
+      <string>MiTienda_WiFi</string>
+      <key>ProxyType</key>
+      <string>None</string>
+      <key>PayloadDescription</key>
+      <string>Configura la red Wi-Fi de Mi Tienda</string>
+      <key>PayloadDisplayName</key>
+      <string>Wi-Fi Mi Tienda</string>
+      <key>PayloadIdentifier</key>
+      <string>wifi.mitienda_wifi.wifi</string>
+      <key>PayloadType</key>
+      <string>com.apple.wifi.managed</string>
+      <key>PayloadUUID</key>
+      <string>0A1D5583-2184-5AFE-8967-88BE938AD6D8</string>
+      <key>PayloadVersion</key>
+      <integer>1</integer>
+    </dict>
+  </array>
+  <key>PayloadDescription</key>
+  <string>Conecta tu iPhone al Wi-Fi de Mi Tienda. Puedes eliminarlo cuando quieras desde Ajustes.</string>
+  <key>PayloadDisplayName</key>
+  <string>Wi-Fi Mi Tienda</string>
+  <key>PayloadIdentifier</key>
+  <string>wifi.mitienda_wifi</string>
+  <key>PayloadOrganization</key>
+  <string>Mi Tienda</string>
+  <key>PayloadRemovalDisallowed</key>
+  <false/>
+  <key>PayloadType</key>
+  <string>Configuration</string>
+  <key>PayloadUUID</key>
+  <string>23CFD447-586A-5095-A351-6DC9985ED239</string>
+  <key>PayloadVersion</key>
+  <integer>1</integer>
+</dict>
+</plist>

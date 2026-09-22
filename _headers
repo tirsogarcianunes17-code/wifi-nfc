@@ -1,0 +1,6 @@
+/wifi.mobileconfig
+  Content-Type: application/x-apple-aspen-config
+  Content-Disposition: attachment; filename="wifi.mobileconfig"
+  Cache-Control: no-cache
+/index.html
+  Cache-Control: no-cache
